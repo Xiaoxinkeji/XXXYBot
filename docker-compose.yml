@@ -1,6 +1,6 @@
 services:
   xxxbot:
-    image: nansy/xxxbot:latest
+    image: xiaoxinkeji/xxxbot:latest
     container_name: XXXBot
     restart: on-failure:3
     ports:
